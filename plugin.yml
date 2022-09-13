@@ -1,0 +1,5 @@
+name: RealisticPhysics
+version: 0.9
+author: Arcane
+main: fr.arcane.realphys.RealPhysics
+commands:
